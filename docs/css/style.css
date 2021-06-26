@@ -57,10 +57,10 @@ body {
 #subtitle {
   font-size:larger;
   background-color: grey;
-  text-align:center;
+  text-align:right;
   color:white;
   padding-right: 20px;
-  padding-top: 40px;
+  padding-top: 20px;
   padding-bottom: 20px;
 }
 
