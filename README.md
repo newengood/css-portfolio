@@ -41,7 +41,7 @@ THEN I am presented with a responsive layout that adapts to my viewport -[X]
 
 * Application loads with no errors. - [X]
 
-* Application GitHub URL submitted. -[]
+* Application GitHub URL submitted. -[X]
 
 * GitHub repository contains application code. - [X]
 
