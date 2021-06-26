@@ -57,7 +57,7 @@ THEN I am presented with a responsive layout that adapts to my viewport -[X]
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. - [X]
 
-* Repository contains multiple descriptive commit messages. - []
+* Repository contains multiple descriptive commit messages. - [X]
 
 * Repository contains quality readme with description, screenshot, link to deployed application. - [X]
 
