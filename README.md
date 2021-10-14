@@ -1,4 +1,4 @@
-# Homework 02 Advanced CSS: Portfolio
+# Advanced CSS: Portfolio
 
 ![Screenshot](./docs/images/screenshot.png)
 
@@ -62,4 +62,3 @@ THEN I am presented with a responsive layout that adapts to my viewport -[X]
 * Repository contains quality readme with description, screenshot, link to deployed application. - [X]
 
 - - -
-© 2021 Newengood
