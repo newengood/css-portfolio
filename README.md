@@ -5,7 +5,7 @@
 
 ## Link to deployed application
 
-https://newengood.github.io/homework-02-submission/
+https://newengood.github.io/css-portfolio/
 
 ## Description: 
 
